@@ -10,3 +10,4 @@ firt_num = int(input("Enter the first number:"))
 second_num = int(input("Enter the second number:"))
 
 print("The lowest number is " + str(lower_num(firt_num, second_num)))
+
